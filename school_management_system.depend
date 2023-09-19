@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1694083997 source:e:\new\nti\c_project\high_level_design\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ErrorState.h"
+	"config.h"
+	"school.h"
+
+1689558684 e:\new\nti\c_project\high_level_design\errorstate.h
+
+1694083717 e:\new\nti\c_project\high_level_design\config.h
+
+1694083437 e:\new\nti\c_project\high_level_design\school.h
+
+1694107425 source:e:\new\nti\c_project\high_level_design\my_project\school_management_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	"config.h"
+	"ErrorState.h"
+	"school.h"
+
+1694083892 source:e:\new\nti\c_project\high_level_design\school.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ErrorState.h"
+	"config.h"
+	"school.h"
+
+1689558684 e:\new\nti\c_project\high_level_design\my_project\school_management_system\errorstate.h
+
+1694106860 e:\new\nti\c_project\high_level_design\my_project\school_management_system\config.h
+
+1694104344 e:\new\nti\c_project\high_level_design\my_project\school_management_system\school.h
+	<stdio.h>
+	"ErrorState.h"
+	"config.h"
+	"school.h"
+
+1694107125 source:e:\new\nti\c_project\high_level_design\my_project\school_management_system\school.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ErrorState.h"
+	"config.h"
+	"school.h"
+
